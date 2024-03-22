@@ -66,20 +66,3 @@ def main():
             
 if __name__ == "__main__":
     main()
-    
-
-'''
-https://medium.com/@johnthuo/chat-with-your-pdf-using-langchain-f-a-i-s-s-and-openai-to-query-pdfs-e7bfde086155
-
-next steps:
-Add support for multiple file formats
-- Add support for other file formats such as .docx, .txt, and .csv
-- Log the chat
-- Add support for saving the chat history to a file for instance a .txt file
-- Implement Document Indexing techniques by use of libraries
-such as Elasticsearch or Apache Solr
-- Enhance question answering capabilities: Explore advanced question answering techniques, 
-such as using transformer models like BERT or GPT, to improve the accuracy and comprehension of the system.
-- Use a model that supports multiple languages, most notably some BERT models do support this.
-
-'''
